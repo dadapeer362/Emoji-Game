@@ -1,0 +1,15 @@
+/* Write your code here. */
+.img-container {
+  border-radius: 15px;
+  background-color: #000000;
+  margin: 10px;
+  width: 150px;
+  height: 150px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 0px 3px 5px yellow;
+  outline: none;
+  cursor: pointer;
+}

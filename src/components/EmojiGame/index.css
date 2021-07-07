@@ -1,0 +1,16 @@
+/* Write your code here. */
+.bg-container {
+  background-color: skyblue;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji-card-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 750px;
+}
